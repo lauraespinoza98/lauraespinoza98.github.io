@@ -1,0 +1,32 @@
+header{
+    width: 100%;
+    background-color: #BFD7EA;
+    
+}
+
+#nav{
+    height: 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #C6FFB0;
+}
+
+h3{
+    font-family: 'Patrick Hand', cursive;
+    color: 030027;
+}
+
+
+#alert, #angry, #relax {
+    margin-left: 35%;  
+    margin-top: 20px;
+}

@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #C6FFB0;
+}
+
+header{
+    width: 100%;
+    background-color: #BFD7EA;
+    
+}
+
+#nav{
+    height: 13%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#scared {
+    margin-top: 3%;
+    width: 20%;
+    margin-left: auto;
+    margin-right: 40%;
+}
+
+#happy {
+    margin-top: -400px;
+    margin-right: 100px;
+}
+
+#curious {
+    margin-left: 80%;
+    margin-top: -400px;
+}
+
+h3{
+    font-family: 'Patrick Hand', cursive;
+    color: 030027;
+}
